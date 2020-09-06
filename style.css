@@ -63,35 +63,7 @@ h1 {
   background-color: #364156;
   color: white;
 }
-div#nav {
-  color: #eeeeee;
-  width: 100%;
-  margin-bottom: 40px;
-  background-color: #5b9ace;
-}
-div#nav ul {
-  margin: 0;
-  padding: 0;
-  list-style-type: none;
-  overflow: hidden;
-}
-div#nav li {
-  float: left;
-}
-div#nav li a {
-  padding: 14px 16px;
-  color: #eeeeee;
-  width: 5em;
-  text-align: center;
-  display: block;
-  text-decoration: none;
-}
-div#nav li a:hover {
-  padding: 4px 2px 2px;
-  color: #eeeeee;
-}
 
-}
 #index div{
   margin-left: 30px;
 }
@@ -128,7 +100,14 @@ div#nav li a:hover {
   background-color:#B5838D;
   color: white;
 }
-
+.row{
+  background-color: #f2f2f2;
+  padding: 10px;
+  padding-top: 30px;
+  margin-right: 20px;
+  margin-left: 20px;
+  margin-bottom: 20px;
+}
 .container {
   display: flex;
   justify-content: center;
